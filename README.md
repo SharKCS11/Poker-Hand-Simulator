@@ -13,6 +13,16 @@ With the current way the simulator is set up, it will keep dealing out hands unt
 
 In the above line, changing "n" will change the initial hand size.
 
+<h3>How to Run</h3>
+1. Download both files. Make sure 'ltest' and 'PokerHandSimulator' are in the same directory.
+2. Install Node.js and install the modules 'mathjs' and 'chancejs'.
+3. Open command prompt in the directory and type in:
+```
+  node PokerHandSimulator.js
+```
+
+<h3> Example of Default Simulator </h3>
+
 Here's are some examples when n=7 (In case you are not familiar with Poker Hand Rankings, they are explained at the end of this README file)
 
 Initial Random Hand: [Qs, 3c, 9d, Qd, 5c, 10d, 2s]
