@@ -1,5 +1,7 @@
 # Poker-Hand-Simulator
 
+NOTE: This program is old and had a few bugs when it was created. An improved version, re-coded in ruby, is now available here: https://github.com/SharKCS11/PokerHS_Ruby 
+
 This simulator is meant for performing statistical experiments based on poker hands from a deck of cards.
 The program is written in JavaScript and requires node.js and Node Package Manager to be installed. Go here: http://nodejs.org/ to install node.
 
